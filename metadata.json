@@ -1,0 +1,6 @@
+{
+  "name": "Excel Data Entry Mobile",
+  "description": "A professional mobile-first app to upload Excel files, dynamically generate custom data entry forms, and download the updated spreadsheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
